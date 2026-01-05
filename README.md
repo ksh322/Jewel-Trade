@@ -34,6 +34,7 @@
 4.  **장바구니 및 견적함**
     
     -   상품 담기 기능.
+    -　　making estimate
         
 
 ### 💻 기술 스택 (Tech Stack)
@@ -85,7 +86,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 
 ----------
 
-## 4. 8주 단기 로드맵 (Roadmap)
+## 4. 6주 단기 로드맵 (Roadmap)
 
 **주차**
 
