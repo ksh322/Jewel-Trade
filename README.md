@@ -1,4 +1,5 @@
-# 💎B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
+# 💎B2B Jewel-Mall : 
+# B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 web service
 
 ## 1. 프로젝트 개요
 
@@ -19,7 +20,7 @@
     
     -   Spring Security 기반 보안 설정.
         
-    -   바이어 접근성 향상을 위한 Google/소셜 로그인 연동.
+    -   바이어 접근성 향상을 위한 Google 소셜 로그인 연동.
         
 2.  **회원 및 업체 관리 (CRM)**
     
@@ -34,7 +35,8 @@
 4.  **장바구니 및 견적함**
     
     -   상품 담기 기능.
-    -　　making estimate
+    -   making estimate.
+    -　　
         
 
 ### 💻 기술 스택 (Tech Stack)
@@ -81,7 +83,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 **현직 멘토**
 
 **Advisor**
-현대오토에버 현직자
+현대오토에버 현직자 
 기술 스택 의사결정 지원 및 인프라 구축 가이드
 
 ----------
@@ -104,7 +106,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 
 **집중 개발**
 
-Auth(로그인) 기능, 장바구니/주문 생성 로직 개발, FE-BE API 연동
+Auth(login) 기능+oAuth, 장바구니/주문 생성 로직 개발, FE-BE API 연동
 
 **5-6주**
 
@@ -114,14 +116,14 @@ AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트
 
 **마무리**
 
-QA 및 버그 수정, 프로젝트 문서화(README/Claude.md)
+FE QA 및 버그 수정, 프로젝트 문서화 (README/Claude.md)
 
 ----------
 
 ## 5. 협업 및 관리 가이드
 
--   **Documentation**: 핵심 비즈니스 로직(언어 전환, 동시성 제어, 세션 만료 등) 및 API 엔드포인트는 `Claude.md`에 상시 업데이트.
+ 전환, 동시성 제어, 세션 만료 등) 및 API 엔드포인트는 `Claude.md`에 상시 업데이트.
     
 -   **Communication**: 회의 및 정보공유 Discord 모든 의사결정 Slack에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
--   **Code Quality**: 현직자 멘토의 기술 자문 거쳐 Main Branch Merge.
+-   **Code Quality**: 현직자 멘토의 기술 자문 거쳐-   **Code Quality** : code convention 
