@@ -93,6 +93,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 - Frontend
 
 ----------
+<img width="3624" height="2542" alt="image" src="https://github.com/user-attachments/assets/8cfd4456-9124-498e-ab34-794d933b05e8" />
 
 ## 4. 6주 단기 로드맵 (Roadmap)
 
